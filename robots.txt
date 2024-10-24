@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://rusubazo.github.io/sitemap/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/kfW/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/XDn/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/kUK/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/qNL/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/CAa/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/KUI/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/HFB/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/xZB/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/Cdc/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/msc/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/Mkg/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/sDa/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/wTB/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/VRE/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/Muh/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/Akd/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/rkd/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/Bhq/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/HOv/sitemap_index.rusubazo
+Sitemap: https://rusubazo.github.io/ujk/sitemap_index.rusubazo
